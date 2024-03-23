@@ -11,6 +11,6 @@ EfficientNet is a scalable and efficient convolutional neural network architectu
 2. Custom CNN: 
 In addition to EfficientNet, we design a custom CNN architecture tailored specifically for brain tumor detection. The architecture is defined in the custom_model.py file.
 
-#Acknowledgments
+# Acknowledgments
 The dataset used in this project is obtained from [https://www.kaggle.com/datasets/abhranta/brain-tumor-detection-mri] .
 The implementation of EfficientNet utilizes the EfficientNet-PyTorch library.
