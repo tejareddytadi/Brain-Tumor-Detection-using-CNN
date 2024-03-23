@@ -5,8 +5,8 @@ This repository contains the implementation of brain tumor detection using Convo
 The dataset used for training and evaluation is provided in the dataset directory. It contains MRI images of brain tumors along with their corresponding labels indicating the presence or absence of a tumor.
 
 # Models
-1. EfficientNet
+1. EfficientNet: 
 EfficientNet is a scalable and efficient convolutional neural network architecture that has shown remarkable performance across various image classification tasks. We employ a pre-trained version of EfficientNet and fine-tune it on our brain tumor dataset.
 
-2. Custom CNN
+2. Custom CNN: 
 In addition to EfficientNet, we design a custom CNN architecture tailored specifically for brain tumor detection. The architecture is defined in the custom_model.py file.
